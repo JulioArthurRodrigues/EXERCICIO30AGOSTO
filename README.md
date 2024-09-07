@@ -1,4 +1,5 @@
-# EXERCICIO30AGOSTO
+# EXERCICIO30AGOSTO&6SETEMBRO
+
 Exercício da aula de Programação de Computadores - 30/08/2024
 
 
